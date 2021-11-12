@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/BookStoreCoreApp/.vs/BookStoreCoreApp
+/BookStoreCoreApp/BookStoreCoreApp/bin/Debug/netcoreapp3.1
+/BookStoreCoreApp/BookStoreCoreApp/obj
