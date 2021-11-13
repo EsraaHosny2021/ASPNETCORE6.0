@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+
+	<ItemGroup>
+		<!--this package is required if editor is vs and enable us to add templates to application-->
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGenerate.Design" Version="6.0.0"/>
+	</ItemGroup>
 </Project>

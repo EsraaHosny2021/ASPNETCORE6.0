@@ -10,9 +10,10 @@
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
+      //browser is opened automatically
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Hello Esraa"
       }
     },
     "BookStoreCoreApp": {

@@ -22,5 +22,17 @@ namespace BookStoreCoreApp
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+        //cli commands
+        //dotnet run
+        //dotnet new 
+
+        //web application templates (architectures)
+        /*
+         * webapi
+         * razor pages
+         * mvc
+         */
+
     }
 }
